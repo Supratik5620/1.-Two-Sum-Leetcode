@@ -17,6 +17,6 @@ While this repository primarily serves as a showcase of my own solutions, I welc
 It's important to note that LeetCode discourages sharing exact solutions to ongoing contests or publicizing the contents of those contests. Therefore, this repository does not contain solutions from any active contests. All the solutions provided here are from previously published LeetCode questions.
 
 ## Contact
-If you have any questions or suggestions regarding this repository or any specific solution, feel free to reach out to me. You can contact me through [Gmail](supratikpal5620@gmail.com) or [LinkedIn profile](https://www.linkedin.com/in/supratik-pal-25aa51221/).
+If you have any questions or suggestions regarding this repository or any specific solution, feel free to reach out to me. You can contact me through supratikpal5620@gmail.com or [LinkedIn profile](https://www.linkedin.com/in/supratik-pal-25aa51221/).
 
 Happy coding!
